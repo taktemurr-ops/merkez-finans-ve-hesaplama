@@ -33,3 +33,6 @@ yuvarlak arama, vurgu çerçeveli kutular). Alt gezinme: Ana Sayfa · Uygulamala
 | Enflasyon Hesaplayıcı | [uyg-enflasyon-hesaplayici](https://github.com/taktemurr-ops/uyg-enflasyon-hesaplayici) |
 | Gelir Vergisi Hesaplayıcı | [uyg-gelir-vergisi-hesaplayici](https://github.com/taktemurr-ops/uyg-gelir-vergisi-hesaplayici) |
 | Zekât Hesaplayıcı | [uyg-zekat-hesaplayici](https://github.com/taktemurr-ops/uyg-zekat-hesaplayici) |
+| Konut Kredisi Hesaplayıcı | [uyg-konut-kredisi-hesaplayici](https://github.com/taktemurr-ops/uyg-konut-kredisi-hesaplayici) |
+| Emeklilik Birikim Hesaplayıcı | [uyg-emeklilik-hesaplayici](https://github.com/taktemurr-ops/uyg-emeklilik-hesaplayici) |
+| Net Varlık Takibi | [uyg-net-varlik-takibi](https://github.com/taktemurr-ops/uyg-net-varlik-takibi) |
