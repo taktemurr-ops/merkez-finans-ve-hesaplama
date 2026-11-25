@@ -1,4 +1,4 @@
-17 outils hors ligne : budget, dettes, épargne et calculs. Aucun crédit proposé.
+17 outils hors ligne : budget, dettes, épargne, calculs. Aucun crédit proposé.
 
 • Suivi et budget: Budget et dépenses, Suivi des dettes, Suivi des abonnements, Rappel de factures, Objectifs d'épargne, Suivi de l'argent de poche
 • Crédit et intérêts: Calculateur de prêt, Calculateur d'intérêts et d'épargne, Calculateur de paiement échelonné, Plan de remboursement de carte

@@ -1,4 +1,4 @@
-17 alat offline: anggaran, utang, tabungan, dan kalkulator. Tidak memberi pinjaman.
+17 alat offline: anggaran, utang, tabungan, kalkulator. Tanpa pinjaman.
 
 • Pencatatan & Anggaran: Anggaran & Pengeluaran, Pencatat Utang, Pelacak Langganan, Pengingat Tagihan, Target Tabungan, Pencatat Uang Saku
 • Pinjaman & Bunga: Kalkulator Pinjaman, Kalkulator Bunga & Tabungan, Kalkulator Cicilan, Perencana Pelunasan Kartu Kredit

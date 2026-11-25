@@ -1,4 +1,4 @@
-17 Offline-Werkzeuge: Budget, Schulden, Sparen und Rechner. Keine Kreditvergabe.
+17 Offline-Tools: Budget, Schulden, Sparen, Rechner. Keine Kreditvergabe.
 
 • Überblick und Budget: Budget- und Ausgabenplaner, Schuldenübersicht, Abo-Übersicht, Rechnungserinnerung, Sparziele, Taschengeld-Übersicht
 • Kredit und Zinsen: Kreditrechner, Zins- und Sparrechner, Ratenrechner, Kreditkarten-Tilgungsplaner

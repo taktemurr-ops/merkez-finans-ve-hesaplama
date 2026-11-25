@@ -1,4 +1,4 @@
-17 ferramentas offline: orçamento, dívidas, poupança e calculadoras. Não oferece empréstimos.
+17 ferramentas offline: orçamento, dívidas, poupança, cálculos. Sem empréstimos.
 
 • Controle e orçamento: Orçamento e despesas, Controle de dívidas, Controle de assinaturas, Lembrete de contas, Metas de poupança, Controle de mesada
 • Empréstimos e juros: Calculadora de empréstimo, Calculadora de juros e poupança, Calculadora de parcelas, Plano de quitação do cartão

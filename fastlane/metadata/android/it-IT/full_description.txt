@@ -1,4 +1,4 @@
-17 strumenti offline: budget, debiti, risparmi e calcolatori. Non offre prestiti.
+17 strumenti offline: budget, debiti, risparmi, calcoli. Nessun prestito.
 
 • Monitoraggio e budget: Budget e spese, Registro debiti, Monitor abbonamenti, Promemoria bollette, Obiettivi di risparmio, Registro paghetta
 • Prestiti e interessi: Calcolatore prestiti, Calcolatore interessi e risparmi, Calcolatore rate, Piano di rimborso carta

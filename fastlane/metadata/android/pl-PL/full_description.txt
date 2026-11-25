@@ -1,4 +1,4 @@
-17 narzędzi offline: budżet, długi, oszczędności i kalkulatory. Nie udziela kredytów.
+17 narzędzi offline: budżet, długi, oszczędności, kalkulatory. Bez kredytów.
 
 • Kontrola i budżet: Budżet i wydatki, Śledzenie długów, Śledzenie subskrypcji, Przypomnienie o rachunkach, Cele oszczędnościowe, Kieszonkowe pod kontrolą
 • Kredyty i odsetki: Kalkulator kredytowy, Kalkulator odsetek i oszczędności, Kalkulator rat, Plan spłaty karty kredytowej

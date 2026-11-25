@@ -1,4 +1,4 @@
-17 herramientas sin conexión: presupuesto, deudas, ahorro y calculadoras. No ofrece préstamos.
+17 herramientas offline: presupuesto, deudas, ahorro y cálculos. Sin préstamos.
 
 • Control y presupuesto: Presupuesto y gastos, Control de deudas, Control de suscripciones, Recordatorio de facturas, Metas de ahorro, Control de la paga
 • Préstamos e intereses: Calculadora de préstamos, Calculadora de interés y ahorro, Calculadora de cuotas, Plan para pagar la tarjeta

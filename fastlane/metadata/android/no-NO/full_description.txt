@@ -1,4 +1,4 @@
-17 frakoblede verktøy: budsjett, gjeld, sparing og kalkulatorer. Tilbyr ikke lån.
+17 frakoblede verktøy: budsjett, gjeld, sparing, kalkulatorer. Ingen lån.
 
 • Oversikt og budsjett: Budsjett og utgifter, Gjeldsoversikt, Abonnementsoversikt, Regningspåminnelse, Sparemål, Lommepengeoversikt
 • Lån og renter: Lånekalkulator, Rente- og sparekalkulator, Avdragskalkulator, Nedbetalingsplan for kredittkort

@@ -1,4 +1,4 @@
-17 alat luar talian: bajet, hutang, simpanan dan kalkulator. Tidak memberi pinjaman.
+17 alat luar talian: bajet, hutang, simpanan, kalkulator. Tiada pinjaman.
 
 • Rekod & Bajet: Bajet & Perbelanjaan, Penjejak Hutang, Penjejak Langganan, Peringatan Bil, Matlamat Simpanan, Penjejak Wang Saku
 • Pinjaman & Faedah: Kalkulator Pinjaman, Kalkulator Faedah & Simpanan, Kalkulator Ansuran, Perancang Bayaran Kad Kredit
