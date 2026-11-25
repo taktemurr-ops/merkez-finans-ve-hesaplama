@@ -1,0 +1,10 @@
+17 offline-työkalua: budjetti, velat, säästöt ja laskurit. Ei myönnä lainoja.
+
+• Seuranta ja budjetti: Budjetti ja menot, Velkaseuranta, Tilausseuranta, Laskumuistutus, Säästötavoitteet, Viikkorahaseuranta
+• Lainat ja korot: Lainalaskuri, Korko- ja säästölaskuri, Osamaksulaskuri, Luottokortin maksusuunnitelma
+• Ostokset: Alennus- ja ALV-laskuri, Laskun jako ja tippi, Yksikköhintavertailu
+• Verot, indeksit ja zakat: Vuokrankorotuslaskuri (TR), Inflaatiolaskuri (TR), Tuloverolaskuri (TR), Zakat-laskuri
+
+Sovellus ei myönnä lainoja; se vain laskee.
+
+Vain tiedoksi; ei talous-, vero- tai oikeudellista neuvontaa. Tarkista virallisista lähteistä.

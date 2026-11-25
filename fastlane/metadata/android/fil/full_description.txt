@@ -1,0 +1,10 @@
+17 offline na tool: budget, utang, ipon at kalkulador. Hindi nagpapautang.
+
+• Tala at Budget: Budget at Gastos, Tala ng Utang, Tala ng Subscription, Paalala sa Bayarin, Mga Layunin sa Ipon, Tala ng Baon
+• Utang at Interes: Loan Calculator, Calculator ng Interes at Ipon, Calculator ng Hulugan, Plano sa Pagbayad ng Credit Card
+• Pamimili: Calculator ng Diskwento at VAT, Hatian ng Bill at Tip, Paghambing ng Presyo kada Yunit
+• Buwis, Index at Zakat: Calculator ng Pagtaas ng Upa (TR), Calculator ng Implasyon (TR), Calculator ng Income Tax (TR), Calculator ng Zakat
+
+Hindi nagpapautang ang app; nagkukuwenta lang.
+
+Para sa impormasyon lamang; hindi payong pinansyal, buwis, o legal. Suriin sa opisyal na sanggunian.

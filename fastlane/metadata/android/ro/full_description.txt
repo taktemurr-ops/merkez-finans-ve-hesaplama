@@ -1,0 +1,10 @@
+17 instrumente offline: buget, datorii, economii și calculatoare. Nu oferă credite.
+
+• Evidență și buget: Buget și cheltuieli, Evidența datoriilor, Evidența abonamentelor, Memento facturi, Obiective de economisire, Evidența banilor de buzunar
+• Credite și dobânzi: Calculator de credit, Calculator de dobândă și economii, Calculator de rate, Plan de rambursare a cardului
+• Cumpărături: Calculator reducere și TVA, Împărțirea notei și bacșiș, Comparare preț unitar
+• Taxe, indici și zakat: Calculator majorare chirie (TR), Calculator de inflație (TR), Calculator impozit pe venit (TR), Calculator zakat
+
+Aplicația nu oferă credite; doar calculează.
+
+Doar informativ; nu este consultanță financiară, fiscală sau juridică. Verifică în surse oficiale.

@@ -1,0 +1,146 @@
+name: merkez_finans_ve_hesaplama
+description: "Finans ve Hesaplama merkez uygulaması: 17 çevrimdışı araç. Android, iOS ve Web. Kredi sunmaz."
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Ortak çekirdek: https://github.com/taktemurr-ops/studio-core
+  studio_core:
+    git:
+      url: https://github.com/taktemurr-ops/studio-core
+      ref: 92b51dd7d47c300d3611c448b5474fca5f793f2a
+  # Araçların ortak motoru
+  finans_motoru:
+    git:
+      url: https://github.com/taktemurr-ops/finans-motoru
+      ref: main
+  # Merkezdeki araçlar (her biri kendi deposunda)
+  uyg_butce_ve_harcama_takibi:
+    git:
+      url: https://github.com/taktemurr-ops/app-009
+      ref: main
+  uyg_kredi_hesaplayici:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-kredi-hesaplayici
+      ref: main
+  uyg_faiz_ve_birikim_hesaplayici:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-faiz-ve-birikim-hesaplayici
+      ref: main
+  uyg_indirim_ve_kdv_hesaplayici:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-indirim-ve-kdv-hesaplayici
+      ref: main
+  uyg_hesap_bolusme_ve_bahsis:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-hesap-bolusme-ve-bahsis
+      ref: main
+  uyg_borc_takibi:
+    git:
+      url: https://github.com/taktemurr-ops/app-012
+      ref: main
+  uyg_abonelik_takibi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-abonelik-takibi
+      ref: main
+  uyg_fatura_hatirlatici:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-fatura-hatirlatici
+      ref: main
+  uyg_birikim_hedefi:
+    git:
+      url: https://github.com/taktemurr-ops/app-011
+      ref: main
+  uyg_harclik_takibi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-harclik-takibi
+      ref: main
+  uyg_birim_fiyat_karsilastirma:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-birim-fiyat-karsilastirma
+      ref: main
+  uyg_taksit_hesaplayici:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-taksit-hesaplayici
+      ref: main
+  uyg_kredi_karti_borc_planlayici:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-kredi-karti-borc-planlayici
+      ref: main
+  uyg_kira_artis_hesaplayici:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-kira-artis-hesaplayici
+      ref: main
+  uyg_enflasyon_hesaplayici:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-enflasyon-hesaplayici
+      ref: main
+  uyg_gelir_vergisi_hesaplayici:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-gelir-vergisi-hesaplayici
+      ref: main
+  uyg_zekat_hesaplayici:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-zekat-hesaplayici
+      ref: main
+  flutter_localizations:
+    sdk: flutter
+  flutter_riverpod: ^2.6.1
+  shared_preferences: ^2.3.2
+  audioplayers: ^6.5.0
+  google_mobile_ads: ^9.2.0
+  in_app_purchase: ^3.2.0
+
+dependency_overrides:
+  # Bütün araçlar aynı çekirdek ve motor sürümünü kullansın.
+  studio_core:
+    git:
+      url: https://github.com/taktemurr-ops/studio-core
+      ref: 92b51dd7d47c300d3611c448b5474fca5f793f2a
+  finans_motoru:
+    git:
+      url: https://github.com/taktemurr-ops/finans-motoru
+      ref: main
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  flutter_driver:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.1
+  flutter_native_splash: ^2.4.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/config/
+    - assets/branding/
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  image_path: assets/branding/icon.png
+  adaptive_icon_background: "#0C2B1F"
+  adaptive_icon_foreground: assets/branding/icon_foreground.png
+  web:
+    generate: true
+    image_path: assets/branding/icon.png
+    background_color: "#0C2B1F"
+    theme_color: "#0C2B1F"
+
+flutter_native_splash:
+  color: "#0C2B1F"
+  image: assets/branding/splash.png
+  android_12:
+    color: "#0C2B1F"
+    image: assets/branding/splash_android12.png
+  web: true

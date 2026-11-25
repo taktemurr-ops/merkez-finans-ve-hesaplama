@@ -1,0 +1,10 @@
+17 alat luar talian: bajet, hutang, simpanan dan kalkulator. Tidak memberi pinjaman.
+
+• Rekod & Bajet: Bajet & Perbelanjaan, Penjejak Hutang, Penjejak Langganan, Peringatan Bil, Matlamat Simpanan, Penjejak Wang Saku
+• Pinjaman & Faedah: Kalkulator Pinjaman, Kalkulator Faedah & Simpanan, Kalkulator Ansuran, Perancang Bayaran Kad Kredit
+• Membeli-belah: Kalkulator Diskaun & Cukai, Bahagi Bil & Tip, Banding Harga Seunit
+• Cukai, Indeks & Zakat: Kalkulator Kenaikan Sewa (Turki), Kalkulator Inflasi (Turki), Kalkulator Cukai Pendapatan (Turki), Kalkulator Zakat
+
+Aplikasi ini tidak memberi pinjaman; hanya mengira.
+
+Untuk maklumat sahaja; bukan nasihat kewangan, cukai atau undang-undang. Semak sumber rasmi.

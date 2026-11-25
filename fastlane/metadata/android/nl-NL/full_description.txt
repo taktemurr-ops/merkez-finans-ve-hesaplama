@@ -1,0 +1,10 @@
+17 offline hulpmiddelen: budget, schulden, sparen en rekenen. Verstrekt geen leningen.
+
+• Bijhouden en budget: Budget en uitgaven, Schuldenoverzicht, Abonnementenoverzicht, Rekeningherinnering, Spaardoelen, Zakgeldoverzicht
+• Leningen en rente: Leningcalculator, Rente- en spaarcalculator, Termijnencalculator, Aflossingsplan creditcard
+• Winkelen: Korting- en btw-calculator, Rekening delen en fooi, Eenheidsprijs vergelijken
+• Belasting, indexen en zakat: Huurverhoging berekenen (TR), Inflatiecalculator (TR), Inkomstenbelasting berekenen (TR), Zakatcalculator
+
+Deze app verstrekt geen leningen; hij rekent alleen.
+
+Alleen ter informatie; geen financieel, fiscaal of juridisch advies. Controleer officiële bronnen.
