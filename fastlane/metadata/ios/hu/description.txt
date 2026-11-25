@@ -1,0 +1,10 @@
+17 offline eszköz: költségvetés, tartozás, megtakarítás. Hitelt nem nyújt.
+
+• Nyilvántartás és keret: Költségvetés és kiadások, Tartozásnapló, Előfizetés-figyelő, Számlaemlékeztető, Megtakarítási célok, Zsebpénz-nyilvántartó
+• Hitel és kamat: Hitelkalkulátor, Kamat- és megtakarításkalkulátor, Részletfizetés-kalkulátor, Hitelkártya-törlesztési terv
+• Vásárlás: Kedvezmény- és ÁFA-kalkulátor, Számlaosztó és borravaló, Egységár-összehasonlító
+• Adó, indexek és zakát: Bérleti díj emelés (TR), Inflációkalkulátor (TR), Jövedelemadó-kalkulátor (TR), Zakát-kalkulátor
+
+Az alkalmazás nem nyújt hitelt, csak számol.
+
+Csak tájékoztató; nem pénzügyi, adó- vagy jogi tanács. Ellenőrizd hivatalos forrásban.

@@ -1,0 +1,1 @@
+utgifter,gjeldsoversikt,abonnementsoversikt,regningspåminnelse,sparemål,lommepengeoversikt,rente,mva

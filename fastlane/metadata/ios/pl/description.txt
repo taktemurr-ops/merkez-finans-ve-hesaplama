@@ -1,0 +1,10 @@
+17 narzędzi offline: budżet, długi, oszczędności, kalkulatory. Bez kredytów.
+
+• Kontrola i budżet: Budżet i wydatki, Śledzenie długów, Śledzenie subskrypcji, Przypomnienie o rachunkach, Cele oszczędnościowe, Kieszonkowe pod kontrolą
+• Kredyty i odsetki: Kalkulator kredytowy, Kalkulator odsetek i oszczędności, Kalkulator rat, Plan spłaty karty kredytowej
+• Zakupy: Kalkulator rabatu i VAT, Podział rachunku i napiwek, Porównanie ceny jednostkowej
+• Podatki, wskaźniki i zakat: Kalkulator podwyżki czynszu (TR), Kalkulator inflacji (TR), Kalkulator podatku dochodowego (TR), Kalkulator zakatu
+
+Aplikacja nie udziela kredytów; tylko liczy.
+
+Wyłącznie informacyjnie; to nie porada finansowa, podatkowa ani prawna. Sprawdź w oficjalnych źródłach.

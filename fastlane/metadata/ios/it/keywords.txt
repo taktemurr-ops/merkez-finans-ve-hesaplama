@@ -1,0 +1,1 @@
+spese,registro,debiti,monitor,abbonamenti,promemoria,bollette,obiettivi,risparmio,paghetta,interessi

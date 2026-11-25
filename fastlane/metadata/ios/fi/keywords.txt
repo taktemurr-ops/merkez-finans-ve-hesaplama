@@ -1,0 +1,1 @@
+menot,velkaseuranta,tilausseuranta,laskumuistutus,säästötavoitteet,viikkorahaseuranta,lainalaskuri

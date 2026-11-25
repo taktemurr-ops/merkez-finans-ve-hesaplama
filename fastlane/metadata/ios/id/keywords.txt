@@ -1,0 +1,1 @@
+pengeluaran,pencatat,utang,pelacak,langganan,pengingat,tagihan,target,tabungan,uang,saku,pinjaman

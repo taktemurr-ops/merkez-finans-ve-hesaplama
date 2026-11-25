@@ -1,0 +1,1 @@
+perbelanjaan,penjejak,hutang,langganan,peringatan,bil,matlamat,simpanan,wang,saku,faedah,ansuran,kad

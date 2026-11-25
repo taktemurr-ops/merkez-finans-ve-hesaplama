@@ -1,0 +1,10 @@
+17 frakoblede verktøy: budsjett, gjeld, sparing, kalkulatorer. Ingen lån.
+
+• Oversikt og budsjett: Budsjett og utgifter, Gjeldsoversikt, Abonnementsoversikt, Regningspåminnelse, Sparemål, Lommepengeoversikt
+• Lån og renter: Lånekalkulator, Rente- og sparekalkulator, Avdragskalkulator, Nedbetalingsplan for kredittkort
+• Handling: Rabatt- og MVA-kalkulator, Del regningen og tips, Sammenlign enhetspris
+• Skatt, indekser og zakat: Husleieøkning (TR), Inflasjonskalkulator (TR), Inntektsskattkalkulator (TR), Zakatkalkulator
+
+Appen tilbyr ikke lån; den bare regner.
+
+Kun til informasjon; ikke økonomisk, skattemessig eller juridisk råd. Sjekk offisielle kilder.

@@ -1,0 +1,1 @@
+utgifter,skuldkoll,prenumerationskoll,räkningspåminnelse,sparmål,veckopengskoll,lånekalkylator,ränte

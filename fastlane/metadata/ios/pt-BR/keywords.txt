@@ -1,0 +1,1 @@
+despesas,controle,dívidas,assinaturas,lembrete,contas,metas,poupança,mesada,calculadora,empréstimo
