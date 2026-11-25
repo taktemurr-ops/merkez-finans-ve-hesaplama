@@ -1,7 +1,7 @@
-17 offline nástrojů: rozpočet, dluhy, spoření a kalkulačky. Neposkytuje úvěry.
+20 offline nástrojů: rozpočet, dluhy, spoření a kalkulačky. Neposkytuje úvěry.
 
-• Přehled a rozpočet: Rozpočet a výdaje, Evidence dluhů, Přehled předplatného, Připomínka plateb, Cíle spoření, Evidence kapesného
-• Úvěry a úroky: Úvěrová kalkulačka, Kalkulačka úroků a spoření, Kalkulačka splátek, Plán splacení kreditní karty
+• Přehled a rozpočet: Rozpočet a výdaje, Evidence dluhů, Přehled předplatného, Připomínka plateb, Cíle spoření, Evidence kapesného, Sledování čistého jmění
+• Úvěry a úroky: Úvěrová kalkulačka, Kalkulačka úroků a spoření, Kalkulačka splátek, Plán splacení kreditní karty, Hypoteční kalkulačka, Kalkulačka spoření na důchod
 • Nákupy: Kalkulačka slev a DPH, Dělení účtu a spropitné, Porovnání jednotkové ceny
 • Daně, indexy a zakát: Kalkulačka zvýšení nájmu (TR), Inflační kalkulačka (TR), Kalkulačka daně z příjmu (TR), Kalkulačka zakátu
 

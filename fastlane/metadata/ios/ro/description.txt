@@ -1,7 +1,7 @@
-17 instrumente offline: buget, datorii, economii, calcule. Fără credite.
+20 instrumente offline: buget, datorii, economii, calcule. Fără credite.
 
-• Evidență și buget: Buget și cheltuieli, Evidența datoriilor, Evidența abonamentelor, Memento facturi, Obiective de economisire, Evidența banilor de buzunar
-• Credite și dobânzi: Calculator de credit, Calculator de dobândă și economii, Calculator de rate, Plan de rambursare a cardului
+• Evidență și buget: Buget și cheltuieli, Evidența datoriilor, Evidența abonamentelor, Memento facturi, Obiective de economisire, Evidența banilor de buzunar, Monitor avere netă
+• Credite și dobânzi: Calculator de credit, Calculator de dobândă și economii, Calculator de rate, Plan de rambursare a cardului, Calculator credit ipotecar, Calculator economii pentru pensie
 • Cumpărături: Calculator reducere și TVA, Împărțirea notei și bacșiș, Comparare preț unitar
 • Taxe, indici și zakat: Calculator majorare chirie (TR), Calculator de inflație (TR), Calculator impozit pe venit (TR), Calculator zakat
 

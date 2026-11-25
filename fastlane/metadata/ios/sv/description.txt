@@ -1,7 +1,7 @@
-17 offlineverktyg: budget, skulder, sparande, kalkylatorer. Inga lån.
+20 offlineverktyg: budget, skulder, sparande, kalkylatorer. Inga lån.
 
-• Koll och budget: Budget och utgifter, Skuldkoll, Prenumerationskoll, Räkningspåminnelse, Sparmål, Veckopengskoll
-• Lån och ränta: Lånekalkylator, Ränte- och sparkalkylator, Delbetalningskalkylator, Avbetalningsplan för kreditkort
+• Koll och budget: Budget och utgifter, Skuldkoll, Prenumerationskoll, Räkningspåminnelse, Sparmål, Veckopengskoll, Nettoförmögenhet
+• Lån och ränta: Lånekalkylator, Ränte- och sparkalkylator, Delbetalningskalkylator, Avbetalningsplan för kreditkort, Bolånekalkylator, Pensionssparkalkylator
 • Shopping: Rabatt- och momskalkylator, Dela notan och dricks, Jämför jämförpris
 • Skatt, index och zakat: Hyreshöjningskalkylator (TR), Inflationskalkylator (TR), Inkomstskattekalkylator (TR), Zakatkalkylator
 

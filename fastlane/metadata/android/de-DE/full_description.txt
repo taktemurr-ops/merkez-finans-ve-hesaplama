@@ -1,7 +1,7 @@
-17 Offline-Tools: Budget, Schulden, Sparen, Rechner. Keine Kreditvergabe.
+20 Offline-Tools: Budget, Schulden, Sparen, Rechner. Keine Kreditvergabe.
 
-• Überblick und Budget: Budget- und Ausgabenplaner, Schuldenübersicht, Abo-Übersicht, Rechnungserinnerung, Sparziele, Taschengeld-Übersicht
-• Kredit und Zinsen: Kreditrechner, Zins- und Sparrechner, Ratenrechner, Kreditkarten-Tilgungsplaner
+• Überblick und Budget: Budget- und Ausgabenplaner, Schuldenübersicht, Abo-Übersicht, Rechnungserinnerung, Sparziele, Taschengeld-Übersicht, Nettovermögen-Tracker
+• Kredit und Zinsen: Kreditrechner, Zins- und Sparrechner, Ratenrechner, Kreditkarten-Tilgungsplaner, Baufinanzierungsrechner, Altersvorsorge-Rechner
 • Einkaufen: Rabatt- und MwSt-Rechner, Rechnung teilen und Trinkgeld, Grundpreisvergleich
 • Steuer, Indizes und Zakat: Mieterhöhungsrechner (TR), Inflationsrechner (TR), Einkommensteuerrechner (TR), Zakat-Rechner
 

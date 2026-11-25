@@ -1,7 +1,7 @@
-17 công cụ ngoại tuyến: ngân sách, nợ, tiết kiệm và máy tính. Không cho vay.
+20 công cụ ngoại tuyến: ngân sách, nợ, tiết kiệm và máy tính. Không cho vay.
 
-• Theo dõi & Ngân sách: Ngân sách & Chi tiêu, Theo dõi nợ, Theo dõi đăng ký, Nhắc hóa đơn, Mục tiêu tiết kiệm, Theo dõi tiền tiêu vặt
-• Vay & Lãi suất: Máy tính khoản vay, Máy tính lãi & tiết kiệm, Máy tính trả góp, Kế hoạch trả nợ thẻ tín dụng
+• Theo dõi & Ngân sách: Ngân sách & Chi tiêu, Theo dõi nợ, Theo dõi đăng ký, Nhắc hóa đơn, Mục tiêu tiết kiệm, Theo dõi tiền tiêu vặt, Theo dõi tài sản ròng
+• Vay & Lãi suất: Máy tính khoản vay, Máy tính lãi & tiết kiệm, Máy tính trả góp, Kế hoạch trả nợ thẻ tín dụng, Tính khoản vay mua nhà, Tính tiết kiệm hưu trí
 • Mua sắm: Máy tính giảm giá & VAT, Chia hóa đơn & tiền tip, So sánh đơn giá
 • Thuế, chỉ số & Zakat: Tính tăng tiền thuê (Thổ Nhĩ Kỳ), Máy tính lạm phát (Thổ Nhĩ Kỳ), Tính thuế thu nhập (Thổ Nhĩ Kỳ), Máy tính Zakat
 

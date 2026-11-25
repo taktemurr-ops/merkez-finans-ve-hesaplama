@@ -1,7 +1,7 @@
-17 frakoblede verktøy: budsjett, gjeld, sparing, kalkulatorer. Ingen lån.
+20 frakoblede verktøy: budsjett, gjeld, sparing, kalkulatorer. Ingen lån.
 
-• Oversikt og budsjett: Budsjett og utgifter, Gjeldsoversikt, Abonnementsoversikt, Regningspåminnelse, Sparemål, Lommepengeoversikt
-• Lån og renter: Lånekalkulator, Rente- og sparekalkulator, Avdragskalkulator, Nedbetalingsplan for kredittkort
+• Oversikt og budsjett: Budsjett og utgifter, Gjeldsoversikt, Abonnementsoversikt, Regningspåminnelse, Sparemål, Lommepengeoversikt, Nettoformue
+• Lån og renter: Lånekalkulator, Rente- og sparekalkulator, Avdragskalkulator, Nedbetalingsplan for kredittkort, Boliglånskalkulator, Pensjonssparekalkulator
 • Handling: Rabatt- og MVA-kalkulator, Del regningen og tips, Sammenlign enhetspris
 • Skatt, indekser og zakat: Husleieøkning (TR), Inflasjonskalkulator (TR), Inntektsskattkalkulator (TR), Zakatkalkulator
 

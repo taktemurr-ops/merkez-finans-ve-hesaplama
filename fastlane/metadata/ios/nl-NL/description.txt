@@ -1,7 +1,7 @@
-17 offline hulpmiddelen: budget, schulden, sparen, rekenen. Geen leningen.
+20 offline hulpmiddelen: budget, schulden, sparen, rekenen. Geen leningen.
 
-• Bijhouden en budget: Budget en uitgaven, Schuldenoverzicht, Abonnementenoverzicht, Rekeningherinnering, Spaardoelen, Zakgeldoverzicht
-• Leningen en rente: Leningcalculator, Rente- en spaarcalculator, Termijnencalculator, Aflossingsplan creditcard
+• Bijhouden en budget: Budget en uitgaven, Schuldenoverzicht, Abonnementenoverzicht, Rekeningherinnering, Spaardoelen, Zakgeldoverzicht, Netto vermogen bijhouden
+• Leningen en rente: Leningcalculator, Rente- en spaarcalculator, Termijnencalculator, Aflossingsplan creditcard, Hypotheekcalculator, Pensioensparen-calculator
 • Winkelen: Korting- en btw-calculator, Rekening delen en fooi, Eenheidsprijs vergelijken
 • Belasting, indexen en zakat: Huurverhoging berekenen (TR), Inflatiecalculator (TR), Inkomstenbelasting berekenen (TR), Zakatcalculator
 

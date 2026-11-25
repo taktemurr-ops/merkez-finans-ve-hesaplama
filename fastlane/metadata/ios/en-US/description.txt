@@ -1,7 +1,7 @@
-17 offline tools: budget, debts, savings and calculators. No loans offered.
+20 offline tools: budget, debts, savings and calculators. No loans offered.
 
-• Tracking & Budget: Budget & Expense Tracker, Debt Tracker, Subscription Tracker, Bill Reminder, Savings Goals, Allowance Tracker
-• Loans & Interest: Loan Calculator, Interest & Savings Calculator, Installment Calculator, Credit Card Payoff Planner
+• Tracking & Budget: Budget & Expense Tracker, Debt Tracker, Subscription Tracker, Bill Reminder, Savings Goals, Allowance Tracker, Net Worth Tracker
+• Loans & Interest: Loan Calculator, Interest & Savings Calculator, Installment Calculator, Credit Card Payoff Planner, Mortgage Calculator, Retirement Savings Calculator
 • Shopping: Discount & VAT Calculator, Bill Split & Tip, Unit Price Compare
 • Tax, Indexes & Zakat: Rent Increase Calculator (TR), Inflation Calculator (TR), Income Tax Calculator (TR), Zakat Calculator
 

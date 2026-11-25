@@ -1,7 +1,7 @@
-17 çevrimdışı araç: bütçe, borç, birikim ve hesaplayıcılar. Kredi sunmaz.
+20 çevrimdışı araç: bütçe, borç, birikim ve hesaplayıcılar. Kredi sunmaz.
 
-• Takip ve Bütçe: Bütçe ve Harcama Takibi, Borç Takibi, Abonelik Takibi, Fatura Hatırlatıcı, Birikim Hedefi, Harçlık Takibi
-• Kredi ve Faiz: Kredi Hesaplayıcı, Faiz ve Birikim Hesaplayıcı, Taksit Hesaplayıcı, Kredi Kartı Borç Planlayıcı
+• Takip ve Bütçe: Bütçe ve Harcama Takibi, Borç Takibi, Abonelik Takibi, Fatura Hatırlatıcı, Birikim Hedefi, Harçlık Takibi, Net Varlık Takibi
+• Kredi ve Faiz: Kredi Hesaplayıcı, Faiz ve Birikim Hesaplayıcı, Taksit Hesaplayıcı, Kredi Kartı Borç Planlayıcı, Konut Kredisi Hesaplayıcı, Emeklilik Birikim Hesaplayıcı
 • Alışveriş: İndirim ve KDV Hesaplayıcı, Hesap Bölüşme ve Bahşiş, Birim Fiyat Karşılaştırma
 • Vergi, Endeks ve Zekât: Kira Artış Hesaplayıcı, Enflasyon Hesaplayıcı, Gelir Vergisi Hesaplayıcı, Zekât Hesaplayıcı
 

@@ -1,7 +1,7 @@
-17 strumenti offline: budget, debiti, risparmi, calcoli. Nessun prestito.
+20 strumenti offline: budget, debiti, risparmi, calcoli. Nessun prestito.
 
-• Monitoraggio e budget: Budget e spese, Registro debiti, Monitor abbonamenti, Promemoria bollette, Obiettivi di risparmio, Registro paghetta
-• Prestiti e interessi: Calcolatore prestiti, Calcolatore interessi e risparmi, Calcolatore rate, Piano di rimborso carta
+• Monitoraggio e budget: Budget e spese, Registro debiti, Monitor abbonamenti, Promemoria bollette, Obiettivi di risparmio, Registro paghetta, Monitor del patrimonio netto
+• Prestiti e interessi: Calcolatore prestiti, Calcolatore interessi e risparmi, Calcolatore rate, Piano di rimborso carta, Calcolatore mutuo, Calcolatore risparmio pensione
 • Acquisti: Calcolatore sconti e IVA, Dividi il conto e mancia, Confronto prezzo unitario
 • Tasse, indici e zakat: Calcolatore aumento affitto (TR), Calcolatore d'inflazione (TR), Calcolatore imposta sul reddito (TR), Calcolatore della zakat
 
