@@ -18,7 +18,7 @@ dependencies:
   finans_motoru:
     git:
       url: https://github.com/taktemurr-ops/finans-motoru
-      ref: 7f1ffbd4fd152b91f944db00e7b9c418ce888098
+      ref: 740aeba982da05184c8e3aef97f66e119871bba3
   # Merkezdeki araçlar (her biri kendi deposunda)
   uyg_butce_ve_harcama_takibi:
     git:
@@ -88,6 +88,18 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/uyg-zekat-hesaplayici
       ref: 3080e31f984b07c6f55a7af6bb77a83ba0bda553
+  uyg_konut_kredisi_hesaplayici:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-konut-kredisi-hesaplayici
+      ref: 03d9ba0e8a2229a625d686ab7d810d5271e83ccf
+  uyg_emeklilik_hesaplayici:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-emeklilik-hesaplayici
+      ref: 35be7754a8248cb7e3bfe5418f1ee15314a2fb7a
+  uyg_net_varlik_takibi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-net-varlik-takibi
+      ref: 3baf89eb100db69e98ec50a83307f8d43641d0dc
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -105,7 +117,7 @@ dependency_overrides:
   finans_motoru:
     git:
       url: https://github.com/taktemurr-ops/finans-motoru
-      ref: 7f1ffbd4fd152b91f944db00e7b9c418ce888098
+      ref: 740aeba982da05184c8e3aef97f66e119871bba3
 
 dev_dependencies:
   flutter_test:

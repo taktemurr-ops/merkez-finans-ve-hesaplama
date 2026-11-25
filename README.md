@@ -1,7 +1,7 @@
 # Finans ve Hesaplama · Money & Calculators (merkez-finans-ve-hesaplama)
 
-Finans ve Hesaplama ailesinin **merkez uygulaması**: 17 çevrimdışı aracı tek uygulamada toplar.
-Görünüm oyun merkezlerinin onaylı tasarım dilini izler (koyu degrade zemin, "17 Uygulama",
+Finans ve Hesaplama ailesinin **merkez uygulaması**: 20 çevrimdışı aracı tek uygulamada toplar.
+Görünüm oyun merkezlerinin onaylı tasarım dilini izler (koyu degrade zemin, "20 Uygulama",
 yuvarlak arama, vurgu çerçeveli kutular). Alt gezinme: Ana Sayfa · Uygulamalar · Favoriler · Profil.
 
 - Çatı: [studio-core](https://github.com/taktemurr-ops/studio-core) `lib/apps` · Motor: [finans-motoru](https://github.com/taktemurr-ops/finans-motoru)
