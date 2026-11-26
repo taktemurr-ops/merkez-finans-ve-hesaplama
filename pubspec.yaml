@@ -113,11 +113,11 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 7e2e219a0cb2b9dc1d1b3e8f03cace0347001b10
+      ref: 4c60cae1c80dbec1f4bcd2a559ebf2dbddb8dd01
   finans_motoru:
     git:
       url: https://github.com/taktemurr-ops/finans-motoru
-      ref: dabcfbac7c94525fa05bc5eaf37979c46dde117c
+      ref: 38cb805f120e96e10fbc04bf203cfb79afeaf2e3
 
 dev_dependencies:
   flutter_test:
