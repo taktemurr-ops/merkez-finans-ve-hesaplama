@@ -21,6 +21,7 @@ import 'package:uyg_kredi_karti_borc_planlayici/uyg_kredi_karti_borc_planlayici.
 import 'package:uyg_net_varlik_takibi/uyg_net_varlik_takibi.dart';
 import 'package:uyg_taksit_hesaplayici/uyg_taksit_hesaplayici.dart';
 import 'package:uyg_zekat_hesaplayici/uyg_zekat_hesaplayici.dart';
+import 'store_flavor.dart';
 
 /// Finans ve Hesaplama: 20 çevrimdışı araç tek uygulamada. Her aracın verisi
 /// ayrı saklanır; reklam yalnızca bir araçtan çıkarken ve en az 3 dakika
@@ -58,4 +59,7 @@ final hubConfig = AppHubConfig(
   privacyUrl: 'https://github.com/taktemurr-ops/merkez-finans-ve-hesaplama/blob/main/PRIVACY.md',
 );
 
-void main() => bootstrapAppHub(hubConfig);
+void main() {
+  registerStoreFlavor();
+  bootstrapAppHub(hubConfig);
+}
