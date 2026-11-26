@@ -1,6 +1,6 @@
 # Gizlilik Politikası · Privacy Policy — Finans ve Hesaplama / Money & Calculators
 
-_Son güncelleme / Last updated: 2026-11-25_
+_Son güncelleme / Last updated: 2026-11-26_
 
 ## Türkçe
 - Bu uygulama **kredi, borç para veya herhangi bir finansal hizmet sunmaz**; yalnızca hesaplama yapar ve sizin girdiğiniz kayıtları tutar.
@@ -27,5 +27,13 @@ _Son güncelleme / Last updated: 2026-11-25_
 - In-app purchases are processed by Google Play / App Store; we never see payment details.
 - Profile → "Delete all my data" removes everything stored on the device.
 - No gambling, games of chance or 18+ content.
+
+## Ek: Veri akışı ve güvenlik / Addendum: data flows and security
+
+### Türkçe
+- **Yedekleme:** Kayıtlarınız Google bulut yedeğine (Android otomatik yedekleme) alınmaz. Yeni telefona geçerken yalnızca cihazdan cihaza doğrudan aktarımda (kablo/yakın cihaz) taşınır.
+
+### English
+- **Backup:** Your records are not included in Google cloud backup (Android Auto Backup). When switching phones they move only with a direct device-to-device transfer (cable/nearby device).
 
 İletişim / Contact: (yayıncı e-posta adresi / publisher e-mail)
