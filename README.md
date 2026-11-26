@@ -1,7 +1,7 @@
 # Finans ve Hesaplama · Money & Calculators (merkez-finans-ve-hesaplama)
 
-Finans ve Hesaplama ailesinin **merkez uygulaması**: 20 çevrimdışı aracı tek uygulamada toplar.
-Görünüm oyun merkezlerinin onaylı tasarım dilini izler (koyu degrade zemin, "20 Uygulama",
+Finans ve Hesaplama ailesinin **merkez uygulaması**: 24 çevrimdışı aracı tek uygulamada toplar.
+Görünüm oyun merkezlerinin onaylı tasarım dilini izler (koyu degrade zemin, "24 Uygulama",
 yuvarlak arama, vurgu çerçeveli kutular). Alt gezinme: Ana Sayfa · Uygulamalar · Favoriler · Profil.
 
 - Çatı: [studio-core](https://github.com/taktemurr-ops/studio-core) `lib/apps` · Motor: [finans-motoru](https://github.com/taktemurr-ops/finans-motoru)
@@ -11,6 +11,9 @@ yuvarlak arama, vurgu çerçeveli kutular). Alt gezinme: Ana Sayfa · Uygulamala
 - Uygulama **kredi sunmaz** (Play "Finansal hizmetler" politikası: hesaplayıcılar kapsam dışı;
   mağaza metninde açıkça yazılıdır). Bütün araçlar finans uyarısını gösterir.
 - İzinler: yalnızca bildirim (fatura/abonelik hatırlatması). Kesin alarm, kamera, konum, kişiler, SMS yok.
+- 4. tur: Altın Günü Defteri (dönüşümlü birikim grubu; **yalnızca kayıt**, para tutmaz/taşımaz, sıra kurası
+  ödülsüz), Veresiye Defteri (hatırlatmayı kullanıcı paylaşım menüsüyle kendisi gönderir), Kişisel Sepet
+  Enflasyonu (resmî enflasyon iddiası yok), Mini Kasa ve Stok (ödeme almaz, yazar kasa yerine geçmez).
 - Bütçe (app-009), Birikim (app-011) ve Borç (app-012) mevcut depolardan taşındı; Harcama 360 (app-010)
   bütçe uygulamasıyla birleştirildi (app-010 deposuna dokunulmadı).
 
@@ -36,3 +39,7 @@ yuvarlak arama, vurgu çerçeveli kutular). Alt gezinme: Ana Sayfa · Uygulamala
 | Konut Kredisi Hesaplayıcı | [uyg-konut-kredisi-hesaplayici](https://github.com/taktemurr-ops/uyg-konut-kredisi-hesaplayici) |
 | Emeklilik Birikim Hesaplayıcı | [uyg-emeklilik-hesaplayici](https://github.com/taktemurr-ops/uyg-emeklilik-hesaplayici) |
 | Net Varlık Takibi | [uyg-net-varlik-takibi](https://github.com/taktemurr-ops/uyg-net-varlik-takibi) |
+| Altın Günü Defteri | [uyg-altin-gunu](https://github.com/taktemurr-ops/uyg-altin-gunu) |
+| Veresiye Defteri | [uyg-veresiye-defteri](https://github.com/taktemurr-ops/uyg-veresiye-defteri) |
+| Kişisel Sepet Enflasyonu | [uyg-sepet-enflasyonu](https://github.com/taktemurr-ops/uyg-sepet-enflasyonu) |
+| Mini Kasa ve Stok | [uyg-mini-kasa-stok](https://github.com/taktemurr-ops/uyg-mini-kasa-stok) |

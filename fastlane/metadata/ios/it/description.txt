@@ -1,8 +1,8 @@
-20 strumenti offline: budget, debiti, risparmi, calcoli. Nessun prestito.
+24 strumenti offline: budget, debiti, risparmi, calcoli. Nessun prestito.
 
-• Monitoraggio e budget: Budget e spese, Registro debiti, Monitor abbonamenti, Promemoria bollette, Obiettivi di risparmio, Registro paghetta, Monitor del patrimonio netto
+• Monitoraggio e budget: Budget e spese, Registro debiti, Monitor abbonamenti, Promemoria bollette, Obiettivi di risparmio, Registro paghetta, Monitor del patrimonio netto, Quaderno del giro di risparmio, Quaderno dei conti clienti, Mini cassa e magazzino
 • Prestiti e interessi: Calcolatore prestiti, Calcolatore interessi e risparmi, Calcolatore rate, Piano di rimborso carta, Calcolatore mutuo, Calcolatore risparmio pensione
-• Acquisti: Calcolatore sconti e IVA, Dividi il conto e mancia, Confronto prezzo unitario
+• Acquisti: Calcolatore sconti e IVA, Dividi il conto e mancia, Confronto prezzo unitario, Inflazione del mio carrello
 • Tasse, indici e zakat: Calcolatore aumento affitto (TR), Calcolatore d'inflazione (TR), Calcolatore imposta sul reddito (TR), Calcolatore della zakat
 
 L'app non offre prestiti; esegue solo calcoli.

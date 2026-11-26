@@ -1,8 +1,8 @@
-20 ferramentas offline: orçamento, dívidas, poupança, cálculos. Sem empréstimos.
+24 ferramentas offline: orçamento, dívidas, poupança, cálculos. Sem empréstimos.
 
-• Controle e orçamento: Orçamento e despesas, Controle de dívidas, Controle de assinaturas, Lembrete de contas, Metas de poupança, Controle de mesada, Controle de patrimônio líquido
+• Controle e orçamento: Orçamento e despesas, Controle de dívidas, Controle de assinaturas, Lembrete de contas, Metas de poupança, Controle de mesada, Controle de patrimônio líquido, Caderno de poupança rotativa, Caderneta de fiado, Mini caixa e estoque
 • Empréstimos e juros: Calculadora de empréstimo, Calculadora de juros e poupança, Calculadora de parcelas, Plano de quitação do cartão, Calculadora de financiamento imobiliário, Calculadora de poupança para aposentadoria
-• Compras: Calculadora de desconto e IVA, Dividir conta e gorjeta, Comparar preço por unidade
+• Compras: Calculadora de desconto e IVA, Dividir conta e gorjeta, Comparar preço por unidade, Inflação da minha cesta
 • Impostos, índices e zakat: Calculadora de reajuste do aluguel (TR), Calculadora de inflação (TR), Calculadora de imposto de renda (TR), Calculadora de zakat
 
 O app não oferece empréstimos; apenas calcula.

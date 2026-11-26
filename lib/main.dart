@@ -2,6 +2,7 @@ import 'package:finans_motoru/finans_motoru.dart';
 import 'package:flutter/material.dart';
 import 'package:studio_core/apps/apps.dart';
 import 'package:uyg_abonelik_takibi/uyg_abonelik_takibi.dart';
+import 'package:uyg_altin_gunu/uyg_altin_gunu.dart';
 import 'package:uyg_birikim_hedefi/uyg_birikim_hedefi.dart';
 import 'package:uyg_birim_fiyat_karsilastirma/uyg_birim_fiyat_karsilastirma.dart';
 import 'package:uyg_borc_takibi/uyg_borc_takibi.dart';
@@ -18,12 +19,15 @@ import 'package:uyg_kira_artis_hesaplayici/uyg_kira_artis_hesaplayici.dart';
 import 'package:uyg_konut_kredisi_hesaplayici/uyg_konut_kredisi_hesaplayici.dart';
 import 'package:uyg_kredi_hesaplayici/uyg_kredi_hesaplayici.dart';
 import 'package:uyg_kredi_karti_borc_planlayici/uyg_kredi_karti_borc_planlayici.dart';
+import 'package:uyg_mini_kasa_stok/uyg_mini_kasa_stok.dart';
 import 'package:uyg_net_varlik_takibi/uyg_net_varlik_takibi.dart';
+import 'package:uyg_sepet_enflasyonu/uyg_sepet_enflasyonu.dart';
 import 'package:uyg_taksit_hesaplayici/uyg_taksit_hesaplayici.dart';
+import 'package:uyg_veresiye_defteri/uyg_veresiye_defteri.dart';
 import 'package:uyg_zekat_hesaplayici/uyg_zekat_hesaplayici.dart';
 import 'store_flavor.dart';
 
-/// Finans ve Hesaplama: 20 çevrimdışı araç tek uygulamada. Her aracın verisi
+/// Finans ve Hesaplama: 24 çevrimdışı araç tek uygulamada. Her aracın verisi
 /// ayrı saklanır; reklam yalnızca bir araçtan çıkarken ve en az 3 dakika
 /// arayla gösterilir.
 final hubConfig = AppHubConfig(
@@ -54,6 +58,10 @@ final hubConfig = AppHubConfig(
     konutKredisiHesaplayiciTool,
     emeklilikHesaplayiciTool,
     netVarlikTakibiTool,
+    altinGunuTool,
+    veresiyeDefteriTool,
+    sepetEnflasyonuTool,
+    miniKasaStokTool,
   ],
   featured: finansFeatured,
   privacyUrl: 'https://github.com/taktemurr-ops/merkez-finans-ve-hesaplama/blob/main/PRIVACY.md',

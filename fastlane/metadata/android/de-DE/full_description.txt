@@ -1,8 +1,8 @@
-20 Offline-Tools: Budget, Schulden, Sparen, Rechner. Keine Kreditvergabe.
+24 Offline-Tools: Budget, Schulden, Sparen, Rechner. Keine Kreditvergabe.
 
-• Überblick und Budget: Budget- und Ausgabenplaner, Schuldenübersicht, Abo-Übersicht, Rechnungserinnerung, Sparziele, Taschengeld-Übersicht, Nettovermögen-Tracker
+• Überblick und Budget: Budget- und Ausgabenplaner, Schuldenübersicht, Abo-Übersicht, Rechnungserinnerung, Sparziele, Taschengeld-Übersicht, Nettovermögen-Tracker, Sparrunden-Buch, Anschreibebuch, Mini-Kasse & Lager
 • Kredit und Zinsen: Kreditrechner, Zins- und Sparrechner, Ratenrechner, Kreditkarten-Tilgungsplaner, Baufinanzierungsrechner, Altersvorsorge-Rechner
-• Einkaufen: Rabatt- und MwSt-Rechner, Rechnung teilen und Trinkgeld, Grundpreisvergleich
+• Einkaufen: Rabatt- und MwSt-Rechner, Rechnung teilen und Trinkgeld, Grundpreisvergleich, Mein Warenkorb-Index
 • Steuer, Indizes und Zakat: Mieterhöhungsrechner (TR), Inflationsrechner (TR), Einkommensteuerrechner (TR), Zakat-Rechner
 
 Diese App vergibt keine Kredite; sie rechnet nur.

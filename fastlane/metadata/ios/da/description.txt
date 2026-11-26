@@ -1,8 +1,8 @@
-20 offlineværktøjer: budget, gæld, opsparing og beregnere. Tilbyder ikke lån.
+24 offlineværktøjer: budget, gæld, opsparing og beregnere. Tilbyder ikke lån.
 
-• Overblik og budget: Budget og udgifter, Gældsoversigt, Abonnementsoversigt, Regningspåmindelse, Opsparingsmål, Lommepengeoversigt, Nettoformue
+• Overblik og budget: Budget og udgifter, Gældsoversigt, Abonnementsoversigt, Regningspåmindelse, Opsparingsmål, Lommepengeoversigt, Nettoformue, Sparekredsbog, Kundekreditbog, Minikasse & lager
 • Lån og renter: Låneberegner, Rente- og opsparingsberegner, Afdragsberegner, Afbetalingsplan for kreditkort, Boliglånsberegner, Pensionsopsparingsberegner
-• Indkøb: Rabat- og momsberegner, Del regningen og drikkepenge, Sammenlign enhedspris
+• Indkøb: Rabat- og momsberegner, Del regningen og drikkepenge, Sammenlign enhedspris, Min kurvs inflation
 • Skat, indeks og zakat: Huslejestigning (TR), Inflationsberegner (TR), Indkomstskatteberegner (TR), Zakatberegner
 
 Appen tilbyder ikke lån; den regner kun.

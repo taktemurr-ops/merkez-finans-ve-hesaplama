@@ -1,8 +1,8 @@
-20 alat offline: anggaran, utang, tabungan, kalkulator. Tanpa pinjaman.
+24 alat offline: anggaran, utang, tabungan, kalkulator. Tanpa pinjaman.
 
-• Pencatatan & Anggaran: Anggaran & Pengeluaran, Pencatat Utang, Pelacak Langganan, Pengingat Tagihan, Target Tabungan, Pencatat Uang Saku, Pelacak kekayaan bersih
+• Pencatatan & Anggaran: Anggaran & Pengeluaran, Pencatat Utang, Pelacak Langganan, Pengingat Tagihan, Target Tabungan, Pencatat Uang Saku, Pelacak kekayaan bersih, Buku Arisan, Buku Kasbon Toko, Kasir Mini & Stok
 • Pinjaman & Bunga: Kalkulator Pinjaman, Kalkulator Bunga & Tabungan, Kalkulator Cicilan, Perencana Pelunasan Kartu Kredit, Kalkulator KPR, Kalkulator tabungan pensiun
-• Belanja: Kalkulator Diskon & PPN, Bagi Tagihan & Tip, Bandingkan Harga Satuan
+• Belanja: Kalkulator Diskon & PPN, Bagi Tagihan & Tip, Bandingkan Harga Satuan, Inflasi Keranjangku
 • Pajak, Indeks & Zakat: Kalkulator Kenaikan Sewa (Turki), Kalkulator Inflasi (Turki), Kalkulator Pajak Penghasilan (Turki), Kalkulator Zakat
 
 Aplikasi ini tidak memberi pinjaman; hanya menghitung.

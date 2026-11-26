@@ -1,8 +1,8 @@
-20 outils hors ligne : budget, dettes, épargne, calculs. Aucun crédit proposé.
+24 outils hors ligne : budget, dettes, épargne, calculs. Aucun crédit proposé.
 
-• Suivi et budget: Budget et dépenses, Suivi des dettes, Suivi des abonnements, Rappel de factures, Objectifs d'épargne, Suivi de l'argent de poche, Suivi du patrimoine net
+• Suivi et budget: Budget et dépenses, Suivi des dettes, Suivi des abonnements, Rappel de factures, Objectifs d'épargne, Suivi de l'argent de poche, Suivi du patrimoine net, Carnet de tontine, Carnet de crédit clients, Mini caisse et stock
 • Crédit et intérêts: Calculateur de prêt, Calculateur d'intérêts et d'épargne, Calculateur de paiement échelonné, Plan de remboursement de carte, Calculateur de prêt immobilier, Calculateur d’épargne retraite
-• Achats: Calculateur de remise et TVA, Partage d'addition et pourboire, Comparateur de prix unitaire
+• Achats: Calculateur de remise et TVA, Partage d'addition et pourboire, Comparateur de prix unitaire, Inflation de mon panier
 • Impôts, indices et zakat: Calculateur de hausse de loyer (TR), Calculateur d'inflation (TR), Calculateur d'impôt sur le revenu (TR), Calculateur de zakat
 
 Cette appli ne propose aucun crédit ; elle calcule seulement.

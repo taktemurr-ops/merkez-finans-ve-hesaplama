@@ -1,5 +1,5 @@
 name: merkez_finans_ve_hesaplama
-description: "Finans ve Hesaplama merkez uygulaması: 20 çevrimdışı araç. Android, iOS ve Web. Kredi sunmaz."
+description: "Finans ve Hesaplama merkez uygulaması: 24 çevrimdışı araç. Android, iOS ve Web. Kredi sunmaz."
 publish_to: none
 version: 1.0.0+1
 
@@ -18,7 +18,7 @@ dependencies:
   finans_motoru:
     git:
       url: https://github.com/taktemurr-ops/finans-motoru
-      ref: dabcfbac7c94525fa05bc5eaf37979c46dde117c
+      ref: b5d24e30bc764de5a157e12283c1ce657be6e52f
   # Merkezdeki araçlar (her biri kendi deposunda)
   uyg_butce_ve_harcama_takibi:
     git:
@@ -100,6 +100,22 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/uyg-net-varlik-takibi
       ref: 7b4c596a565b8a8f04146482ca3d96b556949657
+  uyg_altin_gunu:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-altin-gunu
+      ref: 8cafcdb85f0347c9ac49f8d07acf3d5b974ec2f0
+  uyg_veresiye_defteri:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-veresiye-defteri
+      ref: f95669586adeafa2c943a9ffcdf24ea094fa0962
+  uyg_sepet_enflasyonu:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-sepet-enflasyonu
+      ref: 11aec7a15e431ce5a882076b9241c3103a33e250
+  uyg_mini_kasa_stok:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-mini-kasa-stok
+      ref: 223ed8126d32f8b929186704a61380bdc1e7ed0c
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -117,7 +133,7 @@ dependency_overrides:
   finans_motoru:
     git:
       url: https://github.com/taktemurr-ops/finans-motoru
-      ref: 38cb805f120e96e10fbc04bf203cfb79afeaf2e3
+      ref: b5d24e30bc764de5a157e12283c1ce657be6e52f
 
 dev_dependencies:
   flutter_test:

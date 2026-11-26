@@ -9,6 +9,7 @@ _Son güncelleme / Last updated: 2026-11-26_
 - **CSV dışa aktarma** yalnızca siz istediğinizde panoya kopyalar ve (mobilde) uygulamanın kendi belgeler klasörüne yazar.
 - **Bildirimler** yalnızca sizin açtığınız fatura ve abonelik hatırlatmaları içindir.
 - **Harçlık takibi** ebeveynler içindir; çocuklardan veri toplanmaz.
+- **Altın Günü Defteri, Veresiye Defteri, Sepet Enflasyonu ve Mini Kasa** para tutmaz, toplamaz, aktarmaz ve ödeme almaz; yalnızca sizin girdiğiniz kayıtları (üye/müşteri adları, isteğe bağlı telefon, tutarlar, fiyatlar, satışlar) **cihazınızda** saklar. Hatırlatma ve döküm metinlerini paylaşım menüsünden, seçtiğiniz uygulamayla **siz** gönderirsiniz; uygulama kimseye mesaj göndermez ve kişi listenize erişmez.
 - Vergi, kira artışı, enflasyon ve zekât hesapları bilgilendirme amaçlıdır; mali, hukuki veya dini görüş değildir. Kaynak ve güncelleme tarihi ekranda yazar.
 - Reklamlar Google AdMob tarafından gösterilir. İlk açılışta bir kez seçim yaparsınız ("Kabul et" / "Yalnızca gerekli"); gereken bölgelerde Google'ın rıza formu ayrıca gösterilir. Seçiminizi Profil → Reklam ayarlarından değiştirebilirsiniz. Reklam bir işin ortasında asla gösterilmez.
 - Uygulama içi satın almalar Google Play / App Store üzerinden yapılır; ödeme bilgilerinizi görmeyiz.
@@ -22,6 +23,7 @@ _Son güncelleme / Last updated: 2026-11-26_
 - **CSV export** copies to the clipboard and (on mobile) writes to the app's own documents folder, only when you ask.
 - **Notifications** are used only for the bill and subscription reminders you turn on.
 - The **allowance tracker** is for parents; no data is collected from children.
+- The **Savings Circle Book, Shop Credit Ledger, Basket Inflation and Mini Till** never hold, collect or move money and take no payments; they only store the records you enter (member/customer names, optional phone, amounts, prices, sales) **on your device**. You send reminders and statements yourself through the share menu in an app you choose; the app never messages anyone and does not access your contacts.
 - Tax, rent-increase, inflation and zakat results are for information only, not financial, legal or religious advice. The source and update date are shown on screen.
 - Ads are served by Google AdMob. On first launch you choose once ("Accept" / "Essential only"); where required, Google's consent form is also shown. Change it any time in Profile → Ad settings. Ads never interrupt a task.
 - In-app purchases are processed by Google Play / App Store; we never see payment details.

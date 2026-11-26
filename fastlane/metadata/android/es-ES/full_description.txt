@@ -1,8 +1,8 @@
-20 herramientas offline: presupuesto, deudas, ahorro y cálculos. Sin préstamos.
+24 herramientas offline: presupuesto, deudas, ahorro y cálculos. Sin préstamos.
 
-• Control y presupuesto: Presupuesto y gastos, Control de deudas, Control de suscripciones, Recordatorio de facturas, Metas de ahorro, Control de la paga, Seguimiento del patrimonio neto
+• Control y presupuesto: Presupuesto y gastos, Control de deudas, Control de suscripciones, Recordatorio de facturas, Metas de ahorro, Control de la paga, Seguimiento del patrimonio neto, Libreta de tanda, Libreta de fiado, Mini caja y stock
 • Préstamos e intereses: Calculadora de préstamos, Calculadora de interés y ahorro, Calculadora de cuotas, Plan para pagar la tarjeta, Calculadora de hipoteca, Calculadora de ahorro para la jubilación
-• Compras: Calculadora de descuento e IVA, Dividir cuenta y propina, Comparar precio por unidad
+• Compras: Calculadora de descuento e IVA, Dividir cuenta y propina, Comparar precio por unidad, Inflación de mi cesta
 • Impuestos, índices y zakat: Calculadora de subida del alquiler (TR), Calculadora de inflación (TR), Calculadora de impuesto sobre la renta (TR), Calculadora de zakat
 
 Esta app no ofrece préstamos; solo calcula.

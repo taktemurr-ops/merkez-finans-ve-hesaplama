@@ -1,1 +1,1 @@
-20 çevrimdışı araç: bütçe, borç, birikim ve hesaplayıcılar. Kredi sunmaz.
+24 çevrimdışı araç: bütçe, borç, birikim ve hesaplayıcılar. Kredi sunmaz.
