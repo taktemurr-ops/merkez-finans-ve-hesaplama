@@ -13,93 +13,93 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: a80a018ac4a9c5ff6b71b132e409592407ce10a3
+      ref: 8cb935c63a86ca3e5fb38758edd5bb8ec44dccdd
   # Araçların ortak motoru
   finans_motoru:
     git:
       url: https://github.com/taktemurr-ops/finans-motoru
-      ref: 0382cce6d3092fd2b16c184b4fbbe0a4d7fc54d3
+      ref: dabcfbac7c94525fa05bc5eaf37979c46dde117c
   # Merkezdeki araçlar (her biri kendi deposunda)
   uyg_butce_ve_harcama_takibi:
     git:
       url: https://github.com/taktemurr-ops/app-009
-      ref: de88b24c6fa8b0c04c9cb9c62c5a93f08b5bc782
+      ref: 191e19ab531c0a3de69223c67e8b115e6fa5f527
   uyg_kredi_hesaplayici:
     git:
       url: https://github.com/taktemurr-ops/uyg-kredi-hesaplayici
-      ref: f190fa590530adc0fa42620ac5494b43812600f1
+      ref: 93c7994a63de37c3472ef381c9a78a42caa80622
   uyg_faiz_ve_birikim_hesaplayici:
     git:
       url: https://github.com/taktemurr-ops/uyg-faiz-ve-birikim-hesaplayici
-      ref: 837222c5487d17e2277a73f324ec00a3af6e306a
+      ref: 89a87f2f319e8fb6a1bd9f81e0006a6853854ae2
   uyg_indirim_ve_kdv_hesaplayici:
     git:
       url: https://github.com/taktemurr-ops/uyg-indirim-ve-kdv-hesaplayici
-      ref: 789841da6eecf9c43c5882ce8db4426ddabd14f7
+      ref: e7ffb1bc246ed4b8c9df0fcafebc9ffc3b5cc6cd
   uyg_hesap_bolusme_ve_bahsis:
     git:
       url: https://github.com/taktemurr-ops/uyg-hesap-bolusme-ve-bahsis
-      ref: 0490c58dc0c7101b814bd9ad6c927119c64127a4
+      ref: 98291c5fac0cdac1fcd990d180fc2178cb9e1a8c
   uyg_borc_takibi:
     git:
       url: https://github.com/taktemurr-ops/app-012
-      ref: dd31f67e14fe095e0820fbd66cfbd58ebef48cc2
+      ref: aebb1e57626bd1e60b66f22a4fd8779024d242fc
   uyg_abonelik_takibi:
     git:
       url: https://github.com/taktemurr-ops/uyg-abonelik-takibi
-      ref: ef68044102cb3f67964753e1b9645dc5ec739b91
+      ref: 7166384f062273a443b0f9ec282b96408c63f0d8
   uyg_fatura_hatirlatici:
     git:
       url: https://github.com/taktemurr-ops/uyg-fatura-hatirlatici
-      ref: 633d32598f18a6330a370721d1202bdf73921e1a
+      ref: 83fdca889a53534e7df493e57a681bbead4b29c1
   uyg_birikim_hedefi:
     git:
       url: https://github.com/taktemurr-ops/app-011
-      ref: fc244ad8fe3385d55b82e0c39712876deee5045b
+      ref: b829948503961c7031c4e9f217cdfee1a79fca15
   uyg_harclik_takibi:
     git:
       url: https://github.com/taktemurr-ops/uyg-harclik-takibi
-      ref: eeff59dec794965d2dd1dad63d2324478a61bb4c
+      ref: 7c1f5954ae70ed2769e67e1b334b986531feca62
   uyg_birim_fiyat_karsilastirma:
     git:
       url: https://github.com/taktemurr-ops/uyg-birim-fiyat-karsilastirma
-      ref: 6fd4933fc08b63509b2c37f443a188df12dd5ed4
+      ref: 4971cd657e8e19b95cf68b0963613b467662de60
   uyg_taksit_hesaplayici:
     git:
       url: https://github.com/taktemurr-ops/uyg-taksit-hesaplayici
-      ref: 250e7a6bacdc89ba943d90f8d71c4ce5b66c8e77
+      ref: 662cacdafb982acdf5a65853e49f817ebf4dcef6
   uyg_kredi_karti_borc_planlayici:
     git:
       url: https://github.com/taktemurr-ops/uyg-kredi-karti-borc-planlayici
-      ref: f6fa62ca3be970dfb0c5a3c2443ea27901ecc23f
+      ref: 59668dec00cba486f31888e7aa8394f383741635
   uyg_kira_artis_hesaplayici:
     git:
       url: https://github.com/taktemurr-ops/uyg-kira-artis-hesaplayici
-      ref: e96d64e209609bb2ecd2f8356e6c73f899fe545a
+      ref: f3b5120be027987eb93b1de09217d370739a4792
   uyg_enflasyon_hesaplayici:
     git:
       url: https://github.com/taktemurr-ops/uyg-enflasyon-hesaplayici
-      ref: 05fd0e02961bf09084d4102be3e525435765d7a9
+      ref: 7dd62b9b0e3fe05d44577a8d0931770d91149e13
   uyg_gelir_vergisi_hesaplayici:
     git:
       url: https://github.com/taktemurr-ops/uyg-gelir-vergisi-hesaplayici
-      ref: c59b7855ec59f928062a9910dde6bc7a20894796
+      ref: 5e60d21981e9b2c9574471db5cd975adab16e3f4
   uyg_zekat_hesaplayici:
     git:
       url: https://github.com/taktemurr-ops/uyg-zekat-hesaplayici
-      ref: 3080e31f984b07c6f55a7af6bb77a83ba0bda553
+      ref: 2188fffb6d8461031a01532fabb02d8a57472a46
   uyg_konut_kredisi_hesaplayici:
     git:
       url: https://github.com/taktemurr-ops/uyg-konut-kredisi-hesaplayici
-      ref: 03d9ba0e8a2229a625d686ab7d810d5271e83ccf
+      ref: 299d75088a96f414bfc414f0ad9e04c524beb43e
   uyg_emeklilik_hesaplayici:
     git:
       url: https://github.com/taktemurr-ops/uyg-emeklilik-hesaplayici
-      ref: 35be7754a8248cb7e3bfe5418f1ee15314a2fb7a
+      ref: 1afef0af47975b63fc93917eb6857285e329e020
   uyg_net_varlik_takibi:
     git:
       url: https://github.com/taktemurr-ops/uyg-net-varlik-takibi
-      ref: 3baf89eb100db69e98ec50a83307f8d43641d0dc
+      ref: 7b4c596a565b8a8f04146482ca3d96b556949657
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -113,11 +113,11 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: a80a018ac4a9c5ff6b71b132e409592407ce10a3
+      ref: 8cb935c63a86ca3e5fb38758edd5bb8ec44dccdd
   finans_motoru:
     git:
       url: https://github.com/taktemurr-ops/finans-motoru
-      ref: 0382cce6d3092fd2b16c184b4fbbe0a4d7fc54d3
+      ref: dabcfbac7c94525fa05bc5eaf37979c46dde117c
 
 dev_dependencies:
   flutter_test:
