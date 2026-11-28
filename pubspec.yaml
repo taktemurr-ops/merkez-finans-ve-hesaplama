@@ -18,7 +18,7 @@ dependencies:
   finans_motoru:
     git:
       url: https://github.com/taktemurr-ops/finans-motoru
-      ref: b5d24e30bc764de5a157e12283c1ce657be6e52f
+      ref: 912299582ffe33e72138186f362768439b78c605
   # Merkezdeki araçlar (her biri kendi deposunda)
   uyg_butce_ve_harcama_takibi:
     git:
@@ -133,7 +133,7 @@ dependency_overrides:
   finans_motoru:
     git:
       url: https://github.com/taktemurr-ops/finans-motoru
-      ref: b5d24e30bc764de5a157e12283c1ce657be6e52f
+      ref: 912299582ffe33e72138186f362768439b78c605
 
 dev_dependencies:
   flutter_test:
